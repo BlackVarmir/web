@@ -5,6 +5,8 @@
  */
 
 import React from "react";
+import "@vercel/analytics/dist/react";
+
 
 import About from "./Components/About";
 import Footer from "./Components/Footer";
