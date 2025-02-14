@@ -29,7 +29,7 @@ const siteProps = {
   name: "Oleksandr Vasyliu",
   title: "Student Chernivtsi Universiti and Student ItStep",
   email: "sash.vas2016cv@gmail.com",
-  gitHub: "@BlackVarmir",
+  gitHub: "BlackVarmir",
   instagram: "1bv1.ovy",
   linkedIn: "I don`t have",
   medium: "I don`t have",
